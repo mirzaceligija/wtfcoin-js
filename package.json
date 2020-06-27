@@ -1,0 +1,19 @@
+{
+  "name": "wtfcoin-js",
+  "version": "1.0.0",
+  "description": "Simple simulation of a crypto coin.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cryptocoin",
+    "blockchain"
+  ],
+  "author": "Mirza Čeligija",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "elliptic": "^6.5.3"
+  }
+}
