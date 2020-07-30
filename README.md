@@ -9,7 +9,7 @@
 - Generate wallet (private/public key)
 - Sign transactions
 
-
-
-NOTE: This is followed by tutorial code !  
-Tutorial playlist: https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4
+  
+  
+__NOTE:__ This is followed by tutorial code !    
+_Tutorial playlist:_ https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4
